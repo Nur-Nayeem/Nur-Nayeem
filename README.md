@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Cloud Development and Machine Learning**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nur-nayeem.github.io/My-Portfolio/)
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **nurnayem768@gmail.com**
 - ⚡ Fun fact: I love solving coding challenges and building creative projects.
 
 ---
