@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nur Nayeem</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack | Open Source Contributor</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nur-Nayeem&label=Profile%20views&color=0e75b6&style=flat" alt="Nur-Nayeem" />
