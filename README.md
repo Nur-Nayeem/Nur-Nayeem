@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Apps & AI tools**
 - 🌱 I’m currently learning **Cloud Development and Machine Learning**
-- 👨‍💻 All of my projects are available at [My Portfolio](<a href="https://nur-nayeem.github.io/My-Portfolio/" target="_blank">)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://nur-nayeem.github.io/My-Portfolio/)
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 - 📫 How to reach me: **nurnayem768@gmail.com**
 - ⚡ Fun fact: I love solving coding challenges and building creative projects.
