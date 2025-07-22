@@ -53,7 +53,8 @@
 ## 🚀 Highlighted Projects
 
 Here are a few of my favorite projects:
-
+- 
+- 🖼️ [AI image Generator](https://nur-nayeem.github.io/deploy--ai-image-generator-client/)
 - 🔥 [Awesome MERN Blog App](https://github.com/Nur-Nayeem/MERN-BLOGGING-WEB-APP)
 - 🔎 [Image Search App](https://github.com/Nur-Nayeem/Image-Search-API-App)
 - 📱 [E-library with Audio Books App](https://github.com/Nur-Nayeem/E_library_with_Audio_Books)
