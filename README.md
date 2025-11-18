@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nur Nayeem</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | MERN Stack Enthusiast</h3>
+<img src="./banner/banner.png" style="width:100%"/>
+
+<br/>
+
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Nur Mohammad Nayeem</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+MERN+Stack+Developer;Full-Stack+JavaScript+Developer" alt="Typing SVG" /></a>
+  </ul>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nur-Nayeem&label=Profile%20views&color=0e75b6&style=flat" alt="Nur-Nayeem" />
@@ -7,64 +19,171 @@
 
 ---
 
-## 💫 About Me
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack Web Apps & AI tools**
-- 🌱 I’m currently learning **Cloud Development and Machine Learning**
+I am a passionate and dedicated **MERN Stack Developer** who loves building modern, scalable, and user-friendly web applications.  
+I enjoy solving problems, learning new technologies, and improving my development skills every day.
+
+---
+
+## 🔥 What I'm Currently Doing
+
+- 🚀 Exploring **Next.js and Prisma**
+- 🔭 working on **React, Node.js, Express, MongoDB**
+- 🛠️ Building a **Delivery-System MERN Website**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nurnayeem.netlify.app/)
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 - 📫 How to reach me: **nurnayem768@gmail.com**
-- ⚡ Fun fact: I love solving coding challenges and building creative projects.
+- ⚡ Fun fact: I write cleaner code at 2 AM than at 2 PM — no one knows why, not even me 😄
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat" alt="Express" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="VSCode" />
-</p>
+### Languages:
+
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,cpp,py)](https://github.com/nur-nayeem)
+
+### Frameworks & Libraries:
+
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express,tailwind)](https://github.com/nur-nayeem)
+
+### Database & Model:
+
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/nur-nayeem)
+
+### Tools & Technologies:
+
+[![Tools & Technologies](https://skillicons.dev/icons?i=ubuntu,git,github,vscode,postman)](https://github.com/nur-nayeem)
+
+<br/>
 
 ---
 
 ## 🌍 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nur-mohammad-nayeem-803091352/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nurnayem768@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail" />
-  </a>
-  <a href="https://nurnayeem.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?logo=firefox&logoColor=white&style=flat" alt="Portfolio" />
-  </a>
-</p>
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/nur-mohammad-nayeem-803091352/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
+    <a href="mailto:nurnayem768@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="touhidcodes" height="30" width="40" /></a>
+
+  </p>
+</div>
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Latest Projects
 
-Here are a few of my favorite projects:
-- 
-- 🖼️ [AI image Generator](https://nur-nayeem.github.io/deploy--ai-image-generator-client/)
-- 🔥 [Awesome MERN Blog App](https://github.com/Nur-Nayeem/MERN-BLOGGING-WEB-APP)
-- 🔎 [Image Search App](https://github.com/Nur-Nayeem/Image-Search-API-App)
-- 📱 [E-library with Audio Books App](https://github.com/Nur-Nayeem/E_library_with_Audio_Books)
+<table>
+<tr>
+
+<!-- Project 1 -->
+<td width="50%">
+<h3>🐾 PawsMart</h3>
+<p>
+PawMart is a modern React-based marketplace for pets and pet-related products, helping pet lovers adopt pets and buy essentials in one place.
+</p>
+<p><b>Tech:</b> React.js, Node.js, Express, MongoDB</p>
+<p>
+<img src="https://i.ibb.co.com/dJWhm3sm/rsz-1screenshot-from-2025-11-19-00-29-02.jpg" width="100%" />
+</p>
+<p>
+🔗 <a href="https://pawsmart-79833.web.app/">Live Demo</a> • 
+💻 <a href="https://github.com/Nur-Nayeem/PawMart-Client-Assignment-10-Programming-Hero">GitHub</a>
+</p>
+</td>
+
+<!-- Project 2 -->
+<td width="50%">
+<h3>🎨 AI Image Generator</h3>
+<p>
+Transforms text prompts into high-resolution images in various styles using advanced AI.
+</p>
+<p><b>Tech:</b> React.js, Node.js, Express, MongoDB, Mongoose</p>
+<p>
+<img src="https://i.ibb.co.com/TBNpyzn8/aiiii.png" width="100%" />
+</p>
+<p>
+🔗 <a href="https://image-gen-422.web.app/">Live Demo</a> • 
+💻 <a href="https://github.com/Nur-Nayeem/Ai-Img-gen">GitHub</a>
+</p>
+</td>
+
+</tr>
+<tr>
+
+<!-- Project 3 -->
+<td width="50%">
+<h3>🛒 Smart Deals</h3>
+<p>
+A local online marketplace for buying & selling with real-time bidding support.
+</p>
+<p><b>Tech:</b> React.js, Node.js, Express, MongoDB, Firebase</p>
+<p>
+<img src="https://i.ibb.co.com/3YFtKxpD/rsz-1screenshot-from-2025-11-19-01-24-26.jpg" width="100%" />
+</p>
+<p>
+🔗 <a href="https://smart-deals-b3ad6.web.app/">Live Demo</a> • 
+💻 <a href="https://github.com/Nur-Nayeem/smart-deals">GitHub</a>
+</p>
+</td>
+
+<!-- Project 4 -->
+<td width="50%">
+<h3>❄️ WarmPaws — Pet Service Platform</h3>
+<p>
+A cozy winter companion platform for pet owners to keep their furry friends warm, safe, and healthy.
+</p>
+<p><b>Tech:</b> React.js, Firebase</p>
+<p>
+<img src="https://i.ibb.co.com/21p2dzn1/rsz-1paws.jpg" width="100%" />
+</p>
+<p>
+🔗 <a href="https://warmpaws-2c2b2.web.app/">Live Demo</a> • 
+💻 <a href="https://github.com/Nur-Nayeem/warm-Paws-pet-service-system-assignment-9-programming-hero">GitHub</a>
+</p>
+</td>
+
+</tr>
+<tr>
+
+<!-- Project 5 -->
+<td width="50%">
+<h3>📱 APEX.IO – App Store Website</h3>
+<p>
+A React-based app store where users can browse, search, install, and track installed Android & iOS apps.
+</p>
+<p><b>Tech:</b> React.js, React-Router</p>
+<p>
+<img src="https://i.ibb.co.com/zWswm4HD/rsz-1screenshot-from-2025-11-07-11-19-09.jpg" width="100%" />
+</p>
+<p>
+🔗 <a href="https://apex-io-nur-nayeem.pages.dev/">Live Demo</a> • 
+💻 <a href="https://github.com/Nur-Nayeem/apex.io-hero.io-assignment-8-programming-hero">GitHub</a>
+</p>
+</td>
+
+</tr>
+
+</table>
+
+# 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nur-Nayeem&theme=dark&hide_border=false"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nur-Nayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nur-Nayeem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+</div>
 
 ---
 
 ## ⚡ Fun Quotes
 
 > "Code is like humor. When you have to explain it, it’s bad."  
-> "Stay curious. Stay building."  
+> "Stay curious. Stay building."
 
 ---
-
