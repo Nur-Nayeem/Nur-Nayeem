@@ -31,7 +31,7 @@ I enjoy solving problems, learning new technologies, and improving my developmen
 - 🚀 Exploring **Next.js and Prisma**
 - 🔭 working on **React, Node.js, Express, MongoDB**
 - 🛠️ Building a **Delivery-System MERN Website**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://nurnayeem.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://nur-nayeem-portfolio.pages.dev/)
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 - 📫 How to reach me: **nurnayem768@gmail.com**
 - ⚡ Fun fact: I write cleaner code at 2 AM than at 2 PM — no one knows why, not even me 😄
