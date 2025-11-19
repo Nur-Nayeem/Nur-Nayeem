@@ -7,15 +7,11 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Nur Mohammad Nayeem</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+MERN+Stack+Developer;Full-Stack+JavaScript+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=e683fc&center=true&vCenter=true&width=500&lines=Passionate+MERN+Stack+Developer;Full-Stack+JavaScript+Developer" alt="Typing SVG" /></a>
   </ul>
 </div>
 
 <br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nur-Nayeem&label=Profile%20views&color=0e75b6&style=flat" alt="Nur-Nayeem" />
-</p>
 
 ---
 
