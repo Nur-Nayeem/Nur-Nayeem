@@ -126,17 +126,17 @@ A React-based app store where users can browse, search, install, and track insta
 
 <!-- Project 4 -->
 <td width="50%">
-<h3>❄️ WarmPaws — Pet Service Platform</h3>
+<h3>🛒 Smart Deals – Online Bidding Marketplace</h3>
 <p>
-A cozy winter companion platform for pet owners to keep their furry friends warm, safe, and healthy.
+A React-based Local Online Marketplace for Buying & Selling with Bids
 </p>
-<p><b>Tech:</b> React.js, Firebase</p>
+<p><b>Tech:</b> React.js, Firebase, Node.js, Express, MongoDb</p>
 <p>
-<img src="https://i.ibb.co.com/21p2dzn1/rsz-1paws.jpg" width="100%"  height="250"/>
+<img src="https://i.ibb.co.com/23y5QwqV/rsz-screenshot-from-2025-11-19-13-52-17.jpg" width="100%"  height="250"/>
 </p>
 <p>
-🔗 <a href="https://warmpaws-2c2b2.web.app/" target="_blank">Live Demo</a> • 
-💻 <a href="https://github.com/Nur-Nayeem/warm-Paws-pet-service-system-assignment-9-programming-hero" target="_blank">GitHub</a>
+🔗 <a href="https://smart-deals-b3ad6.web.app/" target="_blank">Live Demo</a> • 
+💻 <a href="https://github.com/Nur-Nayeem/smart-deals" target="_blank">GitHub</a>
 </p>
 </td>
 
