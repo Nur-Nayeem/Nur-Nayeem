@@ -39,7 +39,7 @@ I enjoy solving problems, learning new technologies, and improving my developmen
   <p align="left">
     <a href="https://www.linkedin.com/in/nur-mohammad-nayeem-803091352/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="nur-nayeem" height="30" width="40" /></a>
     <a href="https://fb.com/nur.nayeem614" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nur.nayeem614" height="30" width="40" /></a>
-    <a href="https://discord.gg/touhidcodes#9825" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
+    <a href="https://discord.gg/KFcCgmQ2" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="KFcCgmQ2" height="30" width="40" /></a>
     <a href="mailto:nurnayem768@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="nur-nayeem" height="30" width="40" /></a>
   </p>
 </div>
