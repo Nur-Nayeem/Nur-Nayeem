@@ -79,13 +79,13 @@ I enjoy solving problems, learning new technologies, and improving my developmen
 
 <!-- Project 1 -->
 <td width="50%">
-<h3>🐾 PawsMart</h3>
+<h3>🐾 PawMart</h3>
 <p>
-PawMart is a modern React-based marketplace for pets and pet-related products, helping pet lovers adopt pets and buy essentials in one place.
+PawMart is a modern React-based pet marketplace, helping pet lovers adopt animals and buy essentials.
 </p>
 <p><b>Tech:</b> React.js, Node.js, Express, MongoDB</p>
 <p>
-<img src="https://i.ibb.co.com/dJWhm3sm/rsz-1screenshot-from-2025-11-19-00-29-02.jpg" width="100%" />
+<img src="https://i.ibb.co.com/dJWhm3sm/rsz-1screenshot-from-2025-11-19-00-29-02.jpg" width="100%" height="250" />
 </p>
 <p>
 🔗 <a href="https://pawsmart-79833.web.app/">Live Demo</a> • 
@@ -101,7 +101,7 @@ Transforms text prompts into high-resolution images in various styles using adva
 </p>
 <p><b>Tech:</b> React.js, Node.js, Express, MongoDB, Mongoose</p>
 <p>
-<img src="https://i.ibb.co.com/TBNpyzn8/aiiii.png" width="100%" />
+<img src="https://i.ibb.co.com/TBNpyzn8/aiiii.png" width="100%"  height="250"/>
 </p>
 <p>
 🔗 <a href="https://image-gen-422.web.app/" target="_blank">Live Demo</a> • 
@@ -120,7 +120,7 @@ A React-based app store where users can browse, search, install, and track insta
 </p>
 <p><b>Tech:</b> React.js, React-Router</p>
 <p>
-<img src="https://i.ibb.co.com/zWswm4HD/rsz-1screenshot-from-2025-11-07-11-19-09.jpg" width="100%" />
+<img src="https://i.ibb.co.com/zWswm4HD/rsz-1screenshot-from-2025-11-07-11-19-09.jpg" width="100%"  height="250"/>
 </p>
 <p>
 🔗 <a href="https://apex-io-nur-nayeem.pages.dev/" target="_blank">Live Demo</a> • 
@@ -136,7 +136,7 @@ A cozy winter companion platform for pet owners to keep their furry friends warm
 </p>
 <p><b>Tech:</b> React.js, Firebase</p>
 <p>
-<img src="https://i.ibb.co.com/21p2dzn1/rsz-1paws.jpg" width="100%" />
+<img src="https://i.ibb.co.com/21p2dzn1/rsz-1paws.jpg" width="100%"  height="250"/>
 </p>
 <p>
 🔗 <a href="https://warmpaws-2c2b2.web.app/" target="_blank">Live Demo</a> • 
