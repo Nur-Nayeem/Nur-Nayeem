@@ -110,22 +110,6 @@ Transforms text prompts into high-resolution images in various styles using adva
 
 <!-- Project 3 -->
 <td width="50%">
-<h3>📱 APEX.IO – App Store Website</h3>
-<p>
-A React-based app store where users can browse, search, install, and track installed Android & iOS apps.
-</p>
-<p><b>Tech:</b> React.js, React-Router</p>
-<p>
-<img src="https://i.ibb.co.com/zWswm4HD/rsz-1screenshot-from-2025-11-07-11-19-09.jpg" width="100%"  height="250"/>
-</p>
-<p>
-🔗 <a href="https://apex-io-nur-nayeem.pages.dev/" target="_blank">Live Demo</a> • 
-💻 <a href="https://github.com/Nur-Nayeem/apex.io-hero.io-assignment-8-programming-hero" target="_blank">GitHub</a>
-</p>
-</td>
-
-<!-- Project 4 -->
-<td width="50%">
 <h3>🛒 Smart Deals – Online Bidding Marketplace</h3>
 <p>
 A React-based Local Online Marketplace for Buying & Selling with Bids
@@ -139,6 +123,24 @@ A React-based Local Online Marketplace for Buying & Selling with Bids
 💻 <a href="https://github.com/Nur-Nayeem/smart-deals" target="_blank">GitHub</a>
 </p>
 </td>
+
+
+<!-- Project 4 -->
+<td width="50%">
+<h3>❄️ WarmPaws — Pet Service Platform</h3>
+<p>
+A cozy winter companion platform for pet owners to keep their furry friends warm, safe, and healthy.
+</p>
+<p><b>Tech:</b> React.js, Firebase</p>
+<p>
+<img src="https://i.ibb.co.com/21p2dzn1/rsz-1paws.jpg" width="100%"  height="250"/>
+</p>
+<p>
+🔗 <a href="https://warmpaws-2c2b2.web.app/" target="_blank">Live Demo</a> • 
+💻 <a href="https://github.com/Nur-Nayeem/warm-Paws-pet-service-system-assignment-9-programming-hero" target="_blank">GitHub</a>
+</p>
+</td>
+
 
 </tr>
 
