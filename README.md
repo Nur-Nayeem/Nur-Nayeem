@@ -28,13 +28,25 @@ I enjoy solving problems, learning new technologies, and improving my developmen
 
 ## 🔥 What I'm Currently Doing
 
-- 🚀 Exploring **Next.js and Prisma**
-- 🔭 working on **React, Node.js, Express, MongoDB**
-- 🛠️ Building a **Delivery-System MERN Website**
+- 🔭 Currently Exploring **Next.js and Prisma**
+- 🛠️ Currently Working on **Delivery-System MERN Website**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nur-nayeem-portfolio.pages.dev/)
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 - 📫 How to reach me: **nurnayem768@gmail.com**
 - ⚡ Fun fact: I write cleaner code at 2 AM than at 2 PM — no one knows why, not even me 😄
+
+---
+
+## 🌍 Connect with Me
+
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/nur-mohammad-nayeem-803091352/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="nur-nayeem" height="30" width="40" /></a>
+    <a href="https://fb.com/nur.nayeem614" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nur.nayeem614" height="30" width="40" /></a>
+    <a href="https://discord.gg/touhidcodes#9825" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
+    <a href="mailto:nurnayem768@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="nur-nayeem" height="30" width="40" /></a>
+  </p>
+</div>
 
 ---
 
@@ -46,7 +58,7 @@ I enjoy solving problems, learning new technologies, and improving my developmen
 
 ### Frameworks & Libraries:
 
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express,tailwind)](https://github.com/nur-nayeem)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,tailwind,nodejs,express)](https://github.com/nur-nayeem)
 
 ### Database & Model:
 
@@ -57,18 +69,6 @@ I enjoy solving problems, learning new technologies, and improving my developmen
 [![Tools & Technologies](https://skillicons.dev/icons?i=ubuntu,git,github,vscode,postman)](https://github.com/nur-nayeem)
 
 <br/>
-
----
-
-## 🌍 Connect with Me
-
-<div>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/nur-mohammad-nayeem-803091352/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
-    <a href="mailto:nurnayem768@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="touhidcodes" height="30" width="40" /></a>
-
-  </p>
-</div>
 
 ---
 
@@ -104,8 +104,8 @@ Transforms text prompts into high-resolution images in various styles using adva
 <img src="https://i.ibb.co.com/TBNpyzn8/aiiii.png" width="100%" />
 </p>
 <p>
-🔗 <a href="https://image-gen-422.web.app/">Live Demo</a> • 
-💻 <a href="https://github.com/Nur-Nayeem/Ai-Img-gen">GitHub</a>
+🔗 <a href="https://image-gen-422.web.app/" target="_blank">Live Demo</a> • 
+💻 <a href="https://github.com/Nur-Nayeem/Ai-Img-gen" target="_blank">GitHub</a>
 </p>
 </td>
 
@@ -114,17 +114,17 @@ Transforms text prompts into high-resolution images in various styles using adva
 
 <!-- Project 3 -->
 <td width="50%">
-<h3>🛒 Smart Deals</h3>
+<h3>📱 APEX.IO – App Store Website</h3>
 <p>
-A local online marketplace for buying & selling with real-time bidding support.
+A React-based app store where users can browse, search, install, and track installed Android & iOS apps.
 </p>
-<p><b>Tech:</b> React.js, Node.js, Express, MongoDB, Firebase</p>
+<p><b>Tech:</b> React.js, React-Router</p>
 <p>
-<img src="https://i.ibb.co.com/3YFtKxpD/rsz-1screenshot-from-2025-11-19-01-24-26.jpg" width="100%" />
+<img src="https://i.ibb.co.com/zWswm4HD/rsz-1screenshot-from-2025-11-07-11-19-09.jpg" width="100%" />
 </p>
 <p>
-🔗 <a href="https://smart-deals-b3ad6.web.app/">Live Demo</a> • 
-💻 <a href="https://github.com/Nur-Nayeem/smart-deals">GitHub</a>
+🔗 <a href="https://apex-io-nur-nayeem.pages.dev/" target="_blank">Live Demo</a> • 
+💻 <a href="https://github.com/Nur-Nayeem/apex.io-hero.io-assignment-8-programming-hero" target="_blank">GitHub</a>
 </p>
 </td>
 
@@ -139,27 +139,8 @@ A cozy winter companion platform for pet owners to keep their furry friends warm
 <img src="https://i.ibb.co.com/21p2dzn1/rsz-1paws.jpg" width="100%" />
 </p>
 <p>
-🔗 <a href="https://warmpaws-2c2b2.web.app/">Live Demo</a> • 
-💻 <a href="https://github.com/Nur-Nayeem/warm-Paws-pet-service-system-assignment-9-programming-hero">GitHub</a>
-</p>
-</td>
-
-</tr>
-<tr>
-
-<!-- Project 5 -->
-<td width="50%">
-<h3>📱 APEX.IO – App Store Website</h3>
-<p>
-A React-based app store where users can browse, search, install, and track installed Android & iOS apps.
-</p>
-<p><b>Tech:</b> React.js, React-Router</p>
-<p>
-<img src="https://i.ibb.co.com/zWswm4HD/rsz-1screenshot-from-2025-11-07-11-19-09.jpg" width="100%" />
-</p>
-<p>
-🔗 <a href="https://apex-io-nur-nayeem.pages.dev/">Live Demo</a> • 
-💻 <a href="https://github.com/Nur-Nayeem/apex.io-hero.io-assignment-8-programming-hero">GitHub</a>
+🔗 <a href="https://warmpaws-2c2b2.web.app/" target="_blank">Live Demo</a> • 
+💻 <a href="https://github.com/Nur-Nayeem/warm-Paws-pet-service-system-assignment-9-programming-hero" target="_blank">GitHub</a>
 </p>
 </td>
 
