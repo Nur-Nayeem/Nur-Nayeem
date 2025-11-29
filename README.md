@@ -91,17 +91,17 @@ PawMart is a modern React-based pet marketplace, helping pet lovers adopt animal
 
 <!-- Project 2 -->
 <td width="50%">
-<h3>🎨 AI Image Generator</h3>
+<h3>Blogging Website</h3>
 <p>
-Transforms text prompts into high-resolution images in various styles using advanced AI.
+A full-featured blogging platform built with the MERN stack, designed for modern writing, sharing, and community interaction.
 </p>
 <p><b>Tech:</b> React.js, Node.js, Express, MongoDB, Mongoose</p>
 <p>
-<img src="https://i.ibb.co.com/TBNpyzn8/aiiii.png" width="100%"  height="250"/>
+<img src="https://i.ibb.co.com/N28BMD8r/Screenshot-from-2025-11-29-10-18-23.png" width="100%"  height="250"/>
 </p>
 <p>
-🔗 <a href="https://image-gen-422.web.app/" target="_blank">Live Demo</a> • 
-💻 <a href="https://github.com/Nur-Nayeem/Ai-Img-gen" target="_blank">GitHub</a>
+🔗 <a href="https://bloggerthoughts.netlify.app/" target="_blank">Live Demo</a> • 
+💻 <a href="https://github.com/Nur-Nayeem/MERN-BLOGGING-WEB-APP" target="_blank">GitHub</a>
 </p>
 </td>
 
